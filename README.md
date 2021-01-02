@@ -151,17 +151,17 @@ Public Private Partnership to provide public infrastructure assets and services 
 Principles of Project Finance - E. R. Yescombe, [Book $67](https://www.amazon.com/Principles-Project-Finance-R-Yescombe/dp/0123910587)
 
 ### Default Risk on Bonds / Fixed Income / Credit / Loan
+* Credit Risk Materials - Stephen Schaefer (2012, LBS Professor :metal:), [Materials](https://www.google.com/search?q=filetype%3Apdf+dse.univr.it%2Fsafe%2Fdocuments%2FSSEFCANAZEI2012%2F&oq=filetype%3Apdf+dse.univr.it%2Fsafe%2Fdocuments%2FSSEFCANAZEI2012%2F&aqs=chrome..69i57j69i58.5591j0j4&sourceid=chrome&ie=UTF-8)
 * Credit Risk Modelling: Theory and Applications - David Lando, [Book $104](https://www.amazon.com/Credit-Risk-Modeling-Applications-Princeton-ebook/dp/B003VIWZ92/)
-Active Credit Portfolio Management in Practice - Jeffrey Bohn and Roger Stein, (Very good book, aimed for practical work on credit risk :+1:), [Book $85](https://www.amazon.com/Active-Credit-Portfolio-Management-Practice-dp-0470080183/dp/0470080183/)
-Credit Risk Materials - Stephen Schaefer (2012, LBS Professor :metal:), [Materials](https://www.google.com/search?q=filetype%3Apdf+dse.univr.it%2Fsafe%2Fdocuments%2FSSEFCANAZEI2012%2F&oq=filetype%3Apdf+dse.univr.it%2Fsafe%2Fdocuments%2FSSEFCANAZEI2012%2F&aqs=chrome..69i57j69i58.5591j0j4&sourceid=chrome&ie=UTF-8)
-Credit Derivatives: A Primer on Credit Risk, Modeling, and Instruments - George Chako et al. (a good introductory book), [Book $18](https://www.amazon.com/Credit-Derivatives-Primer-Modeling-Instruments/dp/0131467441/)
-Credit Risk - Darrell Duffie and Kenneth Singleton, [Book $71](https://www.amazon.com/Credit-Risk-Measurement-Management-Princeton/dp/0691090467/)
+* Active Credit Portfolio Management in Practice - Jeffrey Bohn and Roger Stein, (Very good book, aimed for practical work on credit risk :+1:), [Book $85](https://www.amazon.com/Active-Credit-Portfolio-Management-Practice-dp-0470080183/dp/0470080183/)
+* Credit Derivatives: A Primer on Credit Risk, Modeling, and Instruments - George Chako et al. (a good introductory book), [Book $18](https://www.amazon.com/Credit-Derivatives-Primer-Modeling-Instruments/dp/0131467441/)
+* Credit Risk - Darrell Duffie and Kenneth Singleton, [Book $71](https://www.amazon.com/Credit-Risk-Measurement-Management-Princeton/dp/0691090467/)
 
 ### Fixed Income / Bonds
 * Bond Markets, Analysis, and Strategies - Frank J. Fabozzi, [Book $280](https://www.amazon.com/Bond-Markets-Analysis-Strategies-9th/dp/0133796779)
 * Fixed Income Securities: Valuation, Risk, and Risk Management - Pietro Veronesi, [Book $215](https://www.amazon.com/Fixed-Income-Securities-Valuation-Management/dp/0470109106/)
-Fixed Income Markets and Their Derivatives - Suresh Sundaresan, [Book $73](https://www.amazon.com/Markets-Derivatives-Academic-Advanced-Finance-ebook/dp/B003FK5PXO)
-Fixed Income Course - Hanyang University Business School, [Course Materials](https://drive.google.com/drive/u/0/folders/0B9soGjgURHI7bjFGbFZTZXJ5U0U?tid=0B9soGjgURHI7RFo0SEJ6ZEI4Unc)
+* Fixed Income Markets and Their Derivatives - Suresh Sundaresan, [Book $73](https://www.amazon.com/Markets-Derivatives-Academic-Advanced-Finance-ebook/dp/B003FK5PXO)
+* Fixed Income Course - Hanyang University Business School, [Course Materials](https://drive.google.com/drive/u/0/folders/0B9soGjgURHI7bjFGbFZTZXJ5U0U?tid=0B9soGjgURHI7RFo0SEJ6ZEI4Unc)
 
 ### Derivatives
 
@@ -199,6 +199,10 @@ Global Private Banking and Wealth Management The New Realities - David Maude, Bo
 * FinTech: Shaping the Financial World - MIT, [Videos on OpenCourseware](https://ocw.mit.edu/courses/sloan-school-of-management/15-s08-fintech-shaping-the-financial-world-spring-2020/)
 * Blockchain and Money - MIT, [Videos on OpenCourseware](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/)
 * Fintech: Foundations & Applications of Financial Technology Specialization - Wharton, [Videos on Coursera](https://www.coursera.org/specializations/wharton-fintech/)
+
+### Shariah Finance
+
+
 
 ## Programming Skills for Finance
 
@@ -243,6 +247,6 @@ Notation
 Non-Open-Source books, courses, and resources are noted with $.
 
 ## Contribute
-Please contribute by clicking on this [link](), definitely happy to accept suggestions! Gonna keep this site as open source forever.
-Follow me on Twitter @hendriyono(https://twitter.com/hendriyono); Instagram @hendriyono(https://instagram.com/hendriyono)
+Please contribute input by clicking on this [link](), definitely happy to accept suggestions! Gonna keep this site as open source forever.
+Follow me on Twitter [@hendriyono](https://twitter.com/hendriyono); Instagram [@hendriyono](https://instagram.com/hendriyono)
 
