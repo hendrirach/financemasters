@@ -112,9 +112,9 @@ __Regression__
 
 ### Environmental, Social, and Governance
 _Foundational & Theoretical_
-* The Theory of Corporate Finance - Jean Tirole (Chapter 1 - 11, this book is a definitive guide on corporate finance theory!), [Book $78](https://www.amazon.com/Theory-Corporate-Finance-Jean-Tirole/dp/0691125562/)
 * Influences on corporate governance - Open University, [OpenLearn Course Videos](https://www.open.edu/openlearn/money-management/management/business-studies/influences-on-corporate-governance/content-section-0)
 * Improving Leadership & Governance in Nonprofit Organizations Specialization - Buffalo and SUNY, [Videos on Cousera](https://www.coursera.org/specializations/nonprofit)
+* The Theory of Corporate Finance - Jean Tirole (Chapter 1 - 11, this book is a definitive guide on corporate finance theory!), [Book $78](https://www.amazon.com/Theory-Corporate-Finance-Jean-Tirole/dp/0691125562/)
 
 _Practical_
 * Grow the Pie: How Great Companies Deliver Both Purpose and Profit - Alex Edmans (one of the best professors in London Business School :+1:), [Book $23](https://www.amazon.com/Grow-Pie-Companies-Deliver-Purpose/dp/1108494854/)
@@ -126,10 +126,10 @@ _Practical_
 * Financial Statement Analysis: A Practitioner's Guide - Martin S. Fridson and Fernando Alvarez [Book $63](https://www.amazon.com/Financial-Statement-Analysis-Practitioners-Guide/dp/0470635606)
 
 ### Corporate Valuation
+* Corporate Valuation - Aswath Damodaran (New York University - MBA Class for free! :+1:) [Youtube](https://www.youtube.com/watch?v=G-DwtMkeNTo&list=PLUkh9m2BorqlvUMO3nMwXOG-VIqxmAh3t) / [Website](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/equity.html)
 * Corporate Valuation Theory, Evidence and Practice (if you’re damn serious about learning company valuation! :metal:) - Holthausen and Zmijewski, [Book $75](https://www.amazon.com/Corporate-Valuation-Theory-Evidence-Practice/dp/1618530364/)
 * Investment Valuation: Tools and Techniques for Determining the Value of Any Asset - Aswath Damodaran, [Book $80](https://www.amazon.com/Investment-Valuation-Tools-Techniques-Determining/dp/111801152X/)
 * Valuation: Measuring and Managing the Value of Companies. McKinsey, [Book $50](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/1119610885)
-* Corporate Valuation - Aswath Damodaran (New York University - MBA Class for free! :+1:) [Youtube](https://www.youtube.com/watch?v=G-DwtMkeNTo&list=PLUkh9m2BorqlvUMO3nMwXOG-VIqxmAh3t) / [Website](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/equity.html)
 
 ### Merger and Acquisitions
 * Law of Mergers and Acquisitions - MIT, [Videos on MITCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-649-the-law-of-mergers-and-acquisitions-spring-2003/index.htm)
@@ -161,19 +161,19 @@ _Note: if you want an exhaustive list of PE and VC related materials and looking
 * Credit Risk - Darrell Duffie and Kenneth Singleton, [Book $71](https://www.amazon.com/Credit-Risk-Measurement-Management-Princeton/dp/0691090467/)
 
 ### Fixed Income / Bonds
+* Fixed Income Course - Hanyang University Business School, [Course Materials](https://drive.google.com/drive/u/0/folders/0B9soGjgURHI7bjFGbFZTZXJ5U0U?tid=0B9soGjgURHI7RFo0SEJ6ZEI4Unc)
 * Bond Markets, Analysis, and Strategies - Frank J. Fabozzi, [Book $280](https://www.amazon.com/Bond-Markets-Analysis-Strategies-9th/dp/0133796779)
 * Fixed Income Securities: Valuation, Risk, and Risk Management - Pietro Veronesi, [Book $215](https://www.amazon.com/Fixed-Income-Securities-Valuation-Management/dp/0470109106/)
 * Fixed Income Markets and Their Derivatives - Suresh Sundaresan, [Book $73](https://www.amazon.com/Markets-Derivatives-Academic-Advanced-Finance-ebook/dp/B003FK5PXO)
-* Fixed Income Course - Hanyang University Business School, [Course Materials](https://drive.google.com/drive/u/0/folders/0B9soGjgURHI7bjFGbFZTZXJ5U0U?tid=0B9soGjgURHI7RFo0SEJ6ZEI4Unc)
 
 ### Derivatives
 (can you suggest some materials?)
 
 ### Financial Time Series
 * Financial Time Series - Wharton Business School, [Course Website](http://www-stat.wharton.upenn.edu/~steele/Courses/434/434index.html)
+* Forecasting: Principles and Practice (with R) - Rob J Hyndman and George Athanasopoulos, [Online Book Website](https://otexts.com/fpp2/)
 * Analysis of Financial Time Series - Ruey S. Tsay, [Book $114](https://www.amazon.com/Analysis-Financial-Time-Ruey-Tsay/dp/0470414359/)
 * Time Series Analysis and Its Applications: With R, [Book $130](https://www.amazon.com/Time-Analysis-Its-Applications-Statistics-dp-1461427592/dp/1461427592/)
-* Forecasting: Principles and Practice (with R) - Rob J Hyndman and George Athanasopoulos, [Online Book Website](https://otexts.com/fpp2/)
 
 ### Wealth Management
 * Richest Man in The Babylon - George S. Clason, [Book $13](https://www.amazon.com/Richest-Man-Babylon-George-Clason-dp-1939438551/dp/1939438551/)
@@ -181,11 +181,11 @@ _Note: if you want an exhaustive list of PE and VC related materials and looking
 * The Stewardship of Wealth: Successful Private Wealth Management for Investors and Their Advisors - Gregory Curtis, [Book $42](https://www.amazon.com/Stewardship-Wealth-Website-Successful-Management/dp/1118321863)
 
 ### Personal Finance
-* The Psychology of Money: Timeless lessons on wealth, greed, and happiness - Morgan Housel (MUST READ! :+1:), [Book $16](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/)
-* I Will Teach You to Be Rich, Second Edition: No Guilt. No Excuses. No BS. Just a 6-Week Program That Works - Ramit Sethi, [Book $9](https://www.amazon.com/Will-Teach-You-Rich-Second/dp/1523505745/)
 * Personal & Family Financial Planning (good for beginner) - University of  Florida, [Videos on Coursera](https://www.coursera.org/learn/family-planning)
 * Finance for Everyone: Smart Tools for Decision-Making - University of Michigan, [Videos on edX](https://www.edx.org/course/finance-for-everyone-smart-tools-for-decision-ma-2)
 * Clever Girl Finance - Elite Cafemedia Finance (they also published interesting podcast on personal finance area), [Website](https://www.clevergirlfinance.com/course-packages/)
+* The Psychology of Money: Timeless lessons on wealth, greed, and happiness - Morgan Housel (MUST READ! :+1:), [Book $16](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/)
+* I Will Teach You to Be Rich, Second Edition: No Guilt. No Excuses. No BS. Just a 6-Week Program That Works - Ramit Sethi, [Book $9](https://www.amazon.com/Will-Teach-You-Rich-Second/dp/1523505745/)
 
 ### Real Estate Investment
 * Real Estate Finance and Investments Risks and Opportunities - Peter Linneman and Bruce Kirsch, [Book $215](https://www.amazon.com/Estate-Finance-Investments-Risks-Opportunities/dp/1792331916/) 
