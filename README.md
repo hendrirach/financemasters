@@ -167,6 +167,7 @@ _Note: if you want an exhaustive list of PE and VC related materials and looking
 * Fixed Income Course - Hanyang University Business School, [Course Materials](https://drive.google.com/drive/u/0/folders/0B9soGjgURHI7bjFGbFZTZXJ5U0U?tid=0B9soGjgURHI7RFo0SEJ6ZEI4Unc)
 
 ### Derivatives
+(can you suggest some materials?)
 
 ### Financial Time Series
 * Financial Time Series - Wharton Business School, [Course Website](http://www-stat.wharton.upenn.edu/~steele/Courses/434/434index.html)
