@@ -1,4 +1,4 @@
-_Created and maintained by [@hendriyono](http://bit.ly/twitter-hendriyono), currently working for a financial regulator institution. [London Business School](http://bit.ly/lbs-home) Master in Finance alumni._
+_Created and maintained by [@hendriyono](http://bit.ly/twitter-hendriyono), currently working for a financial services authority. [London Business School](http://bit.ly/lbs-home) Master in Finance alumni._
 
 # The Open-Source Curriculum for Learning Finance
 
