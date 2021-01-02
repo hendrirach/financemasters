@@ -5,29 +5,40 @@ _Created and maintained by [@hendriyono](http://bit.ly/twitter-hendriyono), curr
 This website contains an open-source curriculum for learning Finance. The curriculum will help you learn the building blocks needed to help you understand Finance well. We aim to provide foundational understanding in both theory and applications, and also break down some of current issues and trend in finance (especially in technical areas). 
 
 ### Contents
-The Open-Source Curriculum for Learning Finance 
-Why building this site?
-Everything is in the internet
-An Academic Shortfall
-Ready?
-The Open Source Data Science Curriculum
-A Note About Direction
-Math
-Computing
-Data Analysis
-Data Communication and Design
-Python (Learning)
-Python (Libraries)
-Datasets are now here
-R resources are now here
-Data Science as a Profession
-Capstone Project
-Resources
-Read
-Watch & Listen
-Learn
-Notation
-Contribute
+- [The Open-Source Curriculum for Learning Finance]
+- [The Motivation]
+- [The Curriculum]
+	- [Introductory Courses]
+	- [Ethics in Business and Finance]
+- [Math]
+- [Finance Course]
+	- [Environmental, Social, and Governance]
+	- [Financial Analysis]
+	- [Corporate Valuation]
+	- [Merger and Acquisitions]
+	- [Private Equity]
+	- [Project and Infrastructure Finance]
+	- [Default Risk on Bonds / Fixed Income / Credit / Loan]
+	- [Fixed Income / Bonds]
+	- [Derivatives]
+	- [Financial Time Series]
+	- [Wealth Management]
+	- [Personal Finance]
+	- [Real Estate Investment]
+	- [Equity Investment Management]
+	- [Financial Technology]
+	- [Shariah Finance]
+- [Programming Skills for Finance]
+	- [Python]
+	- [R]
+- [Certification in Finance]
+- [Capstone Project]
+- [Other Resource]
+	- [Read]
+	- [Watch & Listen]
+	- [Learn]
+- [Contribute]
+
 ### The Motivation
 
 Knowledge of finance is highly regarded in the job market. Finance is one of few fields whose employee pays generous amount of money. 
@@ -82,17 +93,9 @@ Finance requires understanding of math. Some introductory materials explained he
 
 Below is the list of mathematical knowledge you have to understand to fully absorb most of the finance related materials listed on this website.
 
-__Algebra & Calculus__
+__Calculus__
 
-Linear Algebra / Levandosky Stanford / Book $10
-Linear Programming (Math 407) University of Washington / Course
-The Manga Guide to Linear Algebra Book $19
-An Intuitive Guide to Linear Algebra Better Explained / Article
-A Programmer's Intuition for Matrix Multiplication Better Explained / Article
-Vector Calculus: Understanding the Cross Product Better Explained / Article
-Vector Calculus: Understanding the Dot Product Better Explained / Article
-Convex Optimization
-Convex Optimization / Boyd Stanford / Lectures / Book
+* Applied Calculus: For Business, Economics, and the Social and Life Sciences, 11th Expanded Edition -  Laurence Hoffmann, (very good book!) [Book $129](https://www.amazon.com/Applied-Calculus-Business-Economics-Sciences/dp/0073532371)
 
 __Statistics and Probability__
 
@@ -122,7 +125,8 @@ _Practical_
 * Intelligent Disobedience: The Difference between Good and Great Leaders - Bob McGannon (Fun read! This book shows that Governance does not always equals to obedience/following the rule), [Book $44](https://www.amazon.com/Intelligent-Disobedience-Bob-McGannon/dp/0815394675/)
 
 ### Financial Analysis
-----------------------
+* Financial Statements: Economic Analysis and Interpretation - Chris Highson [Book $70](https://www.amazon.com/Financial-Statements-Economic-Analysis-Interpretation/dp/1845780116/)
+* Financial Statement Analysis: A Practitioner's Guide - Martin S. Fridson and Fernando Alvarez [Book $63](https://www.amazon.com/Financial-Statement-Analysis-Practitioners-Guide/dp/0470635606)
 
 ### Corporate Valuation
 * Corporate Valuation Theory, Evidence and Practice (if you’re damn serious about learning company valuation! :metal:) - Holthausen and Zmijewski, [Book $75](https://www.amazon.com/Corporate-Valuation-Theory-Evidence-Practice/dp/1618530364/)
@@ -140,7 +144,7 @@ _Practical_
 	
 ### Private Equity 
 * Introduction to Private Equity - Universita Bocconi, [Videos on Coursera](https://www.coursera.org/learn/private-equity)
-* Private Equity: Wharton Business School [Videos on YouTube](https://www.youtube.com/playlist?list=PL16CA1557F889CCEB)
+* Private Equity: Wharton Business School, [Videos on YouTube](https://www.youtube.com/playlist?list=PL16CA1557F889CCEB)
 * International Private Equity - London Business School, [Book $75](https://www.amazon.com/International-Private-Equity-Eli-Talmor/dp/0470971703/)
 * Private Capital - London Business School, Volume 1 - Funds [Book $95](https://www.amazon.com/gp/product/1916211046/) / Volume 2 - Investment [Book $95](https://www.amazon.com/gp/product/1916211054/)
 
@@ -148,9 +152,9 @@ _Note: if you want an exhaustive list of PE and VC related materials and looking
 
 ### Project and Infrastructure Finance
 * Financing and Investing in Infrastructure - Bocco ni University, [Videos on Coursera](https://www.coursera.org/learn/infrastructure-investing)
-Project Finance: Funding Projects Successfully - TUDelft, [Videos on edX](https://www.edx.org/course/project-finance-funding-projects-successfully)
-Public Private Partnership to provide public infrastructure assets and services - World Bank, [Guidebook](http://documents1.worldbank.org/curated/en/203931468339053317/pdf/798040WP0WBI0P0Box0379791B00PUBLIC0.pdf)
-Principles of Project Finance - E. R. Yescombe, [Book $67](https://www.amazon.com/Principles-Project-Finance-R-Yescombe/dp/0123910587)
+* Project Finance: Funding Projects Successfully - TUDelft, [Videos on edX](https://www.edx.org/course/project-finance-funding-projects-successfully)
+* Public Private Partnership to provide public infrastructure assets and services - World Bank, [Guidebook](http://documents1.worldbank.org/curated/en/203931468339053317/pdf/798040WP0WBI0P0Box0379791B00PUBLIC0.pdf)
+* Principles of Project Finance - E. R. Yescombe, [Book $67](https://www.amazon.com/Principles-Project-Finance-R-Yescombe/dp/0123910587)
 
 ### Default Risk on Bonds / Fixed Income / Credit / Loan
 * Credit Risk Materials - Stephen Schaefer (2012, LBS Professor :metal:), [Materials](https://www.google.com/search?q=filetype%3Apdf+dse.univr.it%2Fsafe%2Fdocuments%2FSSEFCANAZEI2012%2F&oq=filetype%3Apdf+dse.univr.it%2Fsafe%2Fdocuments%2FSSEFCANAZEI2012%2F&aqs=chrome..69i57j69i58.5591j0j4&sourceid=chrome&ie=UTF-8)
@@ -170,11 +174,13 @@ Principles of Project Finance - E. R. Yescombe, [Book $67](https://www.amazon.co
 ### Financial Time Series
 * Financial Time Series - Wharton Business School, [Course Website](http://www-stat.wharton.upenn.edu/~steele/Courses/434/434index.html)
 * Analysis of Financial Time Series - Ruey S. Tsay, [Book $114](https://www.amazon.com/Analysis-Financial-Time-Ruey-Tsay/dp/0470414359/)
-* Time Series Analysis and Its Applications: With R [Book $130](https://www.amazon.com/Time-Analysis-Its-Applications-Statistics-dp-1461427592/dp/1461427592/)
-* Forecasting: Principles and Practice (with R) - Rob J Hyndman and George Athanasopoulos [Online Book Website](https://otexts.com/fpp2/)
+* Time Series Analysis and Its Applications: With R, [Book $130](https://www.amazon.com/Time-Analysis-Its-Applications-Statistics-dp-1461427592/dp/1461427592/)
+* Forecasting: Principles and Practice (with R) - Rob J Hyndman and George Athanasopoulos, [Online Book Website](https://otexts.com/fpp2/)
 
 ### Wealth Management
-Global Private Banking and Wealth Management The New Realities - David Maude, Book 
+* Richest Man in The Babylon - George S. Clason, [Book $13](https://www.amazon.com/Richest-Man-Babylon-George-Clason-dp-1939438551/dp/1939438551/)
+* The New Wealth Management: The Financial Advisor's Guide to Managing and Investing Client Assets - Harold Evensky, [Book $90](https://www.amazon.com/New-Wealth-Management-Financial-Investing/dp/0470624000)
+* The Stewardship of Wealth: Successful Private Wealth Management for Investors and Their Advisors - Gregory Curtis, [Book $42](https://www.amazon.com/Stewardship-Wealth-Website-Successful-Management/dp/1118321863)
 
 ### Personal Finance
 * The Psychology of Money: Timeless lessons on wealth, greed, and happiness - Morgan Housel (MUST READ! :+1:), [Book $16](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/)
@@ -191,7 +197,7 @@ Global Private Banking and Wealth Management The New Realities - David Maude, Bo
 ### Equity Investment Management
 * Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk - Richard Grinold and Ronald Kahn (introductory, good for beginner), [Book $68](https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826/) 
 * Advances in Active Portfolio Management: New Developments in Quantitative - Richard Grinold and Ronald Kahn, [Book $70](https://www.amazon.com/Advances-Active-Portfolio-Management-Econometrics/dp/1260453715/)
-* Expected Returns: An Investor's Guide to Harvesting Market Rewards - Antti Ilmanen [Book $64](https://www.amazon.com/Expected-Returns-Investors-Harvesting-Rewards/dp/1119990726)
+* Expected Returns: An Investor's Guide to Harvesting Market Rewards - Antti Ilmanen, [Book $64](https://www.amazon.com/Expected-Returns-Investors-Harvesting-Rewards/dp/1119990726)
 * Asset Pricing: Revised Edition - John Cochrane, [Book $88](https://www.amazon.com/Asset-Pricing-John-H-Cochrane/dp/0691121370)
 * Factor Investing: A Systematic Approach to Asset Management - Andrew Ang, [Book $83](https://www.amazon.com/Asset-Management-Systematic-Investing-Association/dp/0199959323)
 * Efficiently Inefficient: How Smart Money Invests and Market Prices Are Determined - Lasse Heje Pedersen, [Book $26](https://www.amazon.com/Efficiently-Inefficient-Invests-Market-Determined/dp/0691196095/)
@@ -205,14 +211,16 @@ Global Private Banking and Wealth Management The New Realities - David Maude, Bo
 ### Shariah Finance
 ----------------------
 
-
 ## Programming Skills for Finance
 
 ### Python
-----------------------
+Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython - Wes McKinney, [Book $46](https://www.amazon.com/_/dp/1491957662)
 
 ### R
-----------------------
+* Discovering Statistics Using R - Andy Field, et al. [Book $86] (https://www.amazon.com/Discovering-Statistics-Using-Andy-Field/dp/1446200469/)
+* R for Data Science: Import, Tidy, Transform, Visualize, and Model Data - Hadley Wickham [Book $37] (https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/)
+
+__If you want to try to learn programming by practicing, subscribe to [DataCamp](https://www.datacamp.com/)__
 
 ## Certification in Finance
 
@@ -226,15 +234,12 @@ Here is the list of world-renowned certification on finance:
 
 ## Capstone Project
 
-## Resources
+## Other Resources
+
 ### Read
 * [Barron's](https://www.barrons.com/) - _"...The single best financial publication out there. It is comprehensive, inexpensive, and dedicated to a single topic: the financial markets."_ InvestorJunkie.com
 * [Financial Times](https://ft.com/) - Some say: if it's not in FT then it did not happen!
 * [Investopedia](https://www.investopedia.com/) - Google search recommend this website all the time! :smile:
-* Zipfian Academy's List of Resources
-* A Software Engineer's Guide to Getting Started with Data Science
-* Data Scientist Interviews / Metamarkets
-* /r/MachineLearning
 
 ### Watch & Listen
 * Barron's Streetwise (_Wall Street like you've never heard before_) - Barron's with Jack Hough [Spotify Link](https://open.spotify.com/show/789fA35XhgcqPH0sjcpLu8?si=zrg5GhfQSOq0CjM2Efruzg)
