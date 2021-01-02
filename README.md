@@ -217,7 +217,6 @@ Global Private Banking and Wealth Management The New Realities - David Maude, Bo
 ## Certification in Finance
 
 Here is the list of world-renowned certification on finance:
-
 1. Chartered Financial Analyst (CFA)
 2. Financial Risk Management (FRM)
 3. Chartered Alternative Investment Analyst (CAIA)
@@ -225,10 +224,7 @@ Here is the list of world-renowned certification on finance:
 5. Certified Financial Planner (CFP)
 6. Certificate in ESG Investing
 
-Capstone Project
-Capstone Analysis of Your Own Design; Quora's Idea Compendium
-Healthcare Twitter Analysis Coursolve & UW Data Science
-Analyze your LinkedIn Network Generate & Download Adjacency Matrix
+## Capstone Project
 
 ## Resources
 ### Read
@@ -248,10 +244,10 @@ Analyze your LinkedIn Network Generate & Download Adjacency Matrix
 
 ### Learn
 __Free__
-Coursera - flexible, affordable, job-relevant online courses from leading university [Website](https://www.coursera.org/)
-edX - the trusted platform for education and learning [Website](https://www.edx.org/)
-MIT OpenCourseware - top notch lecture from MIT [Website](https://ocw.mit.edu/index.htm)
-YouTube - you can find anything here [Website](https://www.youtube.com/)
+* Coursera - flexible, affordable, job-relevant online courses from leading university [Website](https://www.coursera.org/)
+* edX - the trusted platform for education and learning [Website](https://www.edx.org/)
+* MIT OpenCourseware - top notch lecture from MIT [Website](https://ocw.mit.edu/index.htm)
+* YouTube - you can find anything here [Website](https://www.youtube.com/)
 
 __Paid__
 * Corporate Finance Institute - one of the leading provider of online financial analyst certification programs [Link](https://corporatefinanceinstitute.com/).
@@ -259,8 +255,7 @@ __Paid__
 * Wall Street Mojo - place to learn investment banking skills [Link](https://www.wallstreetmojo.com/).
 * Udemy - global marketplace for learning and instruction [Link](https://www.udemy.com/)
 
-Notation
-Non-Open-Source books, courses, and resources are noted with $.
+_Note: Non-Open-Source books, courses, and resources are noted with $_.
 
 ## Contribute
 Please contribute input by clicking on this [link](), definitely happy to accept suggestions! Gonna keep this site as open source forever.
