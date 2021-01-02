@@ -82,7 +82,7 @@ Ready?
 * _Topics_:  Introductory Accounting and Bookkeeping. The course teaches you about financial accounting and management accounting including: accounting basics, accounting principles and equation, balance sheets, working capital and liquidity, income statement, cash flow, financial ratios, inventory method, and bonds.
 
 ### Ethics in Business and Finance
-----------------------------------
+(can you suggest some materials?)
 
 ## Math
 
@@ -206,7 +206,7 @@ _Note: if you want an exhaustive list of PE and VC related materials and looking
 * Fintech: Foundations & Applications of Financial Technology Specialization - Wharton, [Videos on Coursera](https://www.coursera.org/specializations/wharton-fintech/)
 
 ### Shariah Finance
-----------------------
+(can you suggest some materials?)
 
 ## Programming Skills for Finance
 
@@ -230,6 +230,7 @@ Here is the list of world-renowned certification on finance:
 6. Certificate in ESG Investing
 
 ## Capstone Project
+(can you suggest some materials?)
 
 ## Other Resources
 
