@@ -6,38 +6,38 @@ This website contains an open-source curriculum for learning Finance. The curric
 
 ### Contents
 - [The Open-Source Curriculum for Learning Finance]
-- [The Motivation]
-- [The Curriculum]
-	- [Introductory Courses]
-	- [Ethics in Business and Finance]
-- [Math]
-- [Finance Course]
-	- [Environmental, Social, and Governance]
-	- [Financial Analysis]
-	- [Corporate Valuation]
-	- [Merger and Acquisitions]
-	- [Private Equity]
-	- [Project and Infrastructure Finance]
-	- [Default Risk on Bonds / Fixed Income / Credit / Loan]
-	- [Fixed Income / Bonds]
-	- [Derivatives]
-	- [Financial Time Series]
-	- [Wealth Management]
-	- [Personal Finance]
-	- [Real Estate Investment]
-	- [Equity Investment Management]
-	- [Financial Technology]
-	- [Shariah Finance]
-- [Programming Skills for Finance]
-	- [Python]
-	- [R]
-- [Certification in Finance]
-- [Capstone Project]
-- [Other Resource]
-	- [Read]
-	- [Watch & Listen]
-	- [Learn]
-- [Contribute]
+- [The Motivation](#the-motivation)
+- [The Curriculum](#the-curriculum)
+	- [Introductory Courses](#introductory-courses)
+	- [Ethics in Business and Finance](#ethics-in-business-and-finance)
+- [Math](#math)
+- [Finance Course](#finance-course)
+	- [Environmental, Social, and Governance](#environmental-social-and-governance)
+	- [Financial Analysis](#financial-analysis)
+	- [Corporate Valuation](#corporate-valuation)
+	- [Merger and Acquisitions](#merger-and-acquisitions)
+	- [Private Equity](#private-equity)
+	- [Project and Infrastructure Finance](#project-and-infrastructure-finance)
+	- [Default Risk on Bonds / Fixed Income / Credit / Loan](#default-risk-on-bonds--fixed-income--credit--loan)
+	- [Fixed Income / Bonds]()
+	- [Derivatives](#derivatives)
+	- [Financial Time Series](#financial-time-series)
+	- [Wealth Management](#wealth-management)
+	- [Personal Finance](#personal-finance)
+	- [Real Estate Investment](#real-estate-investment)
+	- [Equity Investment Management](#equity-investment-management)
+	- [Financial Technology](#financial-technology)
+	- [Shariah Finance](#shariah-finance)
+- [Programming Skills for Finance](#programming-skills-for-finance)
+	- [Python](#python)
+	- [R](#r)
+- [Certification in Finance](#certification-in-finance)
+- [Capstone Project](#capstone-project)
+- [Other Resource](#other-resources)
+	- [Read](#read)
+	- [Watch & Listen](#watch--listen)
+	- [Learn](#learn)
+- [Contribute](#contribute)
 
 ### The Motivation
 
