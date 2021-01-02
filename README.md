@@ -72,9 +72,9 @@ Ready?
 
 A Note About Direction
 This is an introduction geared toward those with at least a minimum understanding of programming, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing). Out of personal preference and need for focus, I geared the original curriculum toward Python tools and resources. R resources can be found here.
-Ethics in Machine Intelligence
-Human impact is a first-class concern when building machine intelligence technology. When we build products, we deduce patterns and then reinforce them in the world. Ethics in any Engineering concerns understanding the socio technological impact of the products and services we are bringing to bear in the human world -- and whether they are reinforcing a future we all want to live in.
-Index: Cultural Bias in Machine Intelligence
+
+### Ethics in Business and Finance
+----------------------------------
 
 ## Math
 
@@ -122,6 +122,7 @@ _Practical_
 * Intelligent Disobedience: The Difference between Good and Great Leaders - Bob McGannon (Fun read! This book shows that Governance does not always equals to obedience/following the rule), [Book $44](https://www.amazon.com/Intelligent-Disobedience-Bob-McGannon/dp/0815394675/)
 
 ### Financial Analysis
+----------------------
 
 ### Corporate Valuation
 * Corporate Valuation Theory, Evidence and Practice (if you’re damn serious about learning company valuation! :metal:) - Holthausen and Zmijewski, [Book $75](https://www.amazon.com/Corporate-Valuation-Theory-Evidence-Practice/dp/1618530364/)
@@ -139,6 +140,7 @@ _Practical_
 	
 ### Private Equity 
 * Introduction to Private Equity - Universita Bocconi, [Videos on Coursera](https://www.coursera.org/learn/private-equity)
+* Private Equity: Wharton Business School [Videos on YouTube](https://www.youtube.com/playlist?list=PL16CA1557F889CCEB)
 * International Private Equity - London Business School, [Book $75](https://www.amazon.com/International-Private-Equity-Eli-Talmor/dp/0470971703/)
 * Private Capital - London Business School, Volume 1 - Funds [Book $95](https://www.amazon.com/gp/product/1916211046/) / Volume 2 - Investment [Book $95](https://www.amazon.com/gp/product/1916211054/)
 
@@ -201,22 +203,27 @@ Global Private Banking and Wealth Management The New Realities - David Maude, Bo
 * Fintech: Foundations & Applications of Financial Technology Specialization - Wharton, [Videos on Coursera](https://www.coursera.org/specializations/wharton-fintech/)
 
 ### Shariah Finance
-
+----------------------
 
 
 ## Programming Skills for Finance
 
 ### Python
+----------------------
 
 ### R
+----------------------
 
 ## Certification in Finance
-Chartered Financial Analyst (CFA)
-Financial Risk Management (FRM)
-Chartered Alternative Investment Analyst (CAIA)
-Certificate in Quantitative Finance (CQF)
-Certified Financial Planner (CFP)
-Certificate in ESG Investing
+
+Here is the list of world-renowned certification on finance:
+
+1. Chartered Financial Analyst (CFA)
+2. Financial Risk Management (FRM)
+3. Chartered Alternative Investment Analyst (CAIA)
+4. Certificate in Quantitative Finance (CQF)
+5. Certified Financial Planner (CFP)
+6. Certificate in ESG Investing
 
 Capstone Project
 Capstone Analysis of Your Own Design; Quora's Idea Compendium
@@ -232,16 +239,25 @@ Analyze your LinkedIn Network Generate & Download Adjacency Matrix
 * A Software Engineer's Guide to Getting Started with Data Science
 * Data Scientist Interviews / Metamarkets
 * /r/MachineLearning
+
 ### Watch & Listen
-The Life of a Data Scientist / Josh Wills
-Invest like the best - 
-The Talking Machines - Podcast about Machine Learning
-What Data Science Is / Hilary Mason
+* Barron's Streetwise (_Wall Street like you've never heard before_) - Barron's with Jack Hough [Spotify Link](https://open.spotify.com/show/789fA35XhgcqPH0sjcpLu8?si=zrg5GhfQSOq0CjM2Efruzg)
+* Invest like the best (_Podcast about ideas, methods, and stories of people that will help you better invest your time and money_) - James O'Shaughnessy [Spotify Link](https://open.spotify.com/show/22fi0RqfoBACCuQDv97wFO?si=m6kbF-MhQt2bqg4dD8JofA)
+* Bloomberg Master in Business - Bloomberg Radio with Barry Ritholtz [Spotify Link](https://open.spotify.com/show/4vd6fOEkEw0F7nnqA4UmNu?si=KIj0-iSDQS-ZR_hN4UszUg) 
+* London Business School - Videos [Youtube Channel](https://www.youtube.com/c/londonbusinessschool/videos)
+
 ### Learn
-Metacademy - Search for a concept you want to learn
-Coursera - Online university courses
-Wolfram Alpha - The smart number and info cruncher
-Khan Academy - High quality, free learning videos
+__Free__
+Coursera - flexible, affordable, job-relevant online courses from leading university [Website](https://www.coursera.org/)
+edX - the trusted platform for education and learning [Website](https://www.edx.org/)
+MIT OpenCourseware - top notch lecture from MIT [Website](https://ocw.mit.edu/index.htm)
+YouTube - you can find anything here [Website](https://www.youtube.com/)
+
+__Paid__
+* Corporate Finance Institute - one of the leading provider of online financial analyst certification programs [Link](https://corporatefinanceinstitute.com/).
+* Wall Street Oasis - the most entertaining and useful finance community in the internet [Link](https://www.wallstreetoasis.com/). 	
+* Wall Street Mojo - place to learn investment banking skills [Link](https://www.wallstreetmojo.com/).
+* Udemy - global marketplace for learning and instruction [Link](https://www.udemy.com/)
 
 Notation
 Non-Open-Source books, courses, and resources are noted with $.
@@ -249,4 +265,3 @@ Non-Open-Source books, courses, and resources are noted with $.
 ## Contribute
 Please contribute input by clicking on this [link](), definitely happy to accept suggestions! Gonna keep this site as open source forever.
 Follow me on Twitter [@hendriyono](https://twitter.com/hendriyono); Instagram [@hendriyono](https://instagram.com/hendriyono)
-
