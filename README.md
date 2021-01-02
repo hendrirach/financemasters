@@ -81,9 +81,6 @@ Ready?
 
 * _Topics_:  Introductory Accounting and Bookkeeping. The course teaches you about financial accounting and management accounting including: accounting basics, accounting principles and equation, balance sheets, working capital and liquidity, income statement, cash flow, financial ratios, inventory method, and bonds.
 
-A Note About Direction
-This is an introduction geared toward those with at least a minimum understanding of programming, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing). Out of personal preference and need for focus, I geared the original curriculum toward Python tools and resources. R resources can be found here.
-
 ### Ethics in Business and Finance
 ----------------------------------
 
