@@ -261,7 +261,7 @@ __Paid__
 _Note: Non-Open-Source books, courses, and resources are noted with $_.
 
 ## Contribute
-Please contribute input by clicking on this [link](), definitely happy to accept suggestions! Gonna keep this site as open source forever.
+Please contribute input by clicking on this [link](https://github.com/hendrirach/financemasters/blob/main/README.md), definitely happy to accept suggestions! Gonna keep this site as open source forever.
 Follow me on Twitter [@hendriyono](https://twitter.com/hendriyono); Instagram [@hendriyono](https://instagram.com/hendriyono)
 
 _Inspired by: [datasciencemaster.org](datasciencemasters.org)_
