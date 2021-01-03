@@ -95,11 +95,11 @@ __Calculus__
 
 __Statistics and Probability__
 
+* Probability - The Science of Uncertainty and Data  - MIT (cannot stress how good this course is! They once published the 2nd part, i don't know why they took it down), [edX](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 * Statistics in a Nutshell: A Desktop Quick Reference - Sarah Boslaugh, [Book $29](https://www.amazon.com/gp/product/1449316824/)
 * Probability: For the Enthusiastic Beginner - David J. Morin, [Book $20](https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678)
 	(_cheapest one out there, some other good introductory book cost you > $75_)
 * Probability Theory: The Logic of Science - E. T. Jaynes (if you have enough background on probability), [Book $92](https://www.amazon.com/dp/0521592712)
-* Probability - The Science of Uncertainty and Data  - MIT (cannot stress how good this course is! They once published the 2nd part, i don't know why they took it down), [edX](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) 
 
 __Differential Equations__
 * Introduction to Differential Equations - MIT, [Videos on edX](https://www.edx.org/course/introduction-to-differential-equations-2)
@@ -121,7 +121,7 @@ _Practical_
 * Intelligent Disobedience: The Difference between Good and Great Leaders - Bob McGannon (Fun read! This book shows that Governance does not always equals to obedience/following the rule), [Book $44](https://www.amazon.com/Intelligent-Disobedience-Bob-McGannon/dp/0815394675/)
 
 ### Financial Analysis
-* Financial Statements: Economic Analysis and Interpretation - Chris Highson [Book $70](https://www.amazon.com/Financial-Statements-Economic-Analysis-Interpretation/dp/1845780116/)
+* Financial Statements: Economic Analysis and Interpretation - Chris Highson (you can imagine his voice by reading this book :laugh:) [Book $70](https://www.amazon.com/Financial-Statements-Economic-Analysis-Interpretation/dp/1845780116/)
 * Financial Statement Analysis: A Practitioner's Guide - Martin S. Fridson and Fernando Alvarez [Book $63](https://www.amazon.com/Financial-Statement-Analysis-Practitioners-Guide/dp/0470635606)
 
 ### Corporate Valuation
