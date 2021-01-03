@@ -58,12 +58,11 @@ You might also want to learn finance eventhough your background is engineering, 
 
 **Finance is Everywhere**
 
-It doesn’t matter if you work in tech or education, consulting or advertising. Your company needs cash flow to do things like pay everyone’s salary, distribute dividends, and reinvest in product innovation.
-
-Even if you don’t manage a budget yourself, finance is at the core of business decision-making. If you’re pitching a project or angling for additional funding, understanding and being able to communicate how you can turn that investment into revenue for your organization will help you make a more convincing argument.
+>It doesn’t matter if you work in tech or education, consulting or advertising. Your company needs cash flow to do things like pay everyone’s salary, distribute dividends, and reinvest in product innovation.Even if you don’t manage a budget yourself, finance is at the core of business decision-making. If you’re pitching a project or angling for additional funding, understanding and being able to communicate how you can turn that investment into revenue for your organization will help you make a more convincing argument.
 
 _- source: ["5 Reasons Why You Should Study Finance" - Harvard Business School](https://online.hbs.edu/blog/post/why-study-finance)_, published on 23 Apr 2019
-Ready?
+
+__Ready?__
 
 ## The Curriculum
 
