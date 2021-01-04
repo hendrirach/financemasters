@@ -91,15 +91,15 @@ Below is the list of mathematical knowledge you have to understand to fully abso
 
 __Calculus__
 
-* Applied Calculus: For Business, Economics, and the Social and Life Sciences, 11th Expanded Edition -  Laurence Hoffmann, (very good book!) [Book $129](https://www.amazon.com/Applied-Calculus-Business-Economics-Sciences/dp/0073532371)
+* Applied Calculus: For Business, Economics, and the Social and Life Sciences, 11th Expanded Edition -  Laurence Hoffmann, (very good book!) [Book $129](http://bit.ly/applied-calculus-for-business-econ)
 
 __Statistics and Probability__
 
 * Probability - The Science of Uncertainty and Data  - MIT (cannot stress how good this course is! They once published the 2nd part, i don't know why they took it down), [edX](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
-* Statistics in a Nutshell: A Desktop Quick Reference - Sarah Boslaugh, [Book $29](https://www.amazon.com/gp/product/1449316824/)
-* Probability: For the Enthusiastic Beginner - David J. Morin, [Book $20](https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678)
+* Statistics in a Nutshell: A Desktop Quick Reference - Sarah Boslaugh, [Book $29](http://bit.ly/statistics-in-a-nutshell)
+* Probability: For the Enthusiastic Beginner - David J. Morin, [Book $20](hhttp://bit.ly/probability-for-the-enthusiastic-beginner)
 	(_cheapest one out there, some other good introductory book cost you > $75_)
-* Probability Theory: The Logic of Science - E. T. Jaynes (if you have enough background on probability), [Book $92](https://www.amazon.com/dp/0521592712)
+* Probability Theory: The Logic of Science - E. T. Jaynes (if you have enough background on probability), [Book $92](http://bit.ly/probability-theory-logic-of-science)
 
 __Differential Equations__
 * Introduction to Differential Equations - MIT, [Videos on edX](https://www.edx.org/course/introduction-to-differential-equations-2)
@@ -113,36 +113,36 @@ __Regression__
 _Foundational & Theoretical_
 * Influences on corporate governance - Open University, [OpenLearn Course Videos](https://www.open.edu/openlearn/money-management/management/business-studies/influences-on-corporate-governance/content-section-0)
 * Improving Leadership & Governance in Nonprofit Organizations Specialization - Buffalo and SUNY, [Videos on Cousera](https://www.coursera.org/specializations/nonprofit)
-* The Theory of Corporate Finance - Jean Tirole (Chapter 1 - 11, this book is a definitive guide on corporate finance theory!), [Book $78](https://www.amazon.com/Theory-Corporate-Finance-Jean-Tirole/dp/0691125562/)
+* The Theory of Corporate Finance - Jean Tirole (Chapter 1 - 11, this book is a definitive guide on corporate finance theory!), [Book $78](http://bit.ly/theory-of-corporate-finance-tirole)
 
 _Practical_
-* Grow the Pie: How Great Companies Deliver Both Purpose and Profit - Alex Edmans (one of the best professors in London Business School :+1:), [Book $23](https://www.amazon.com/Grow-Pie-Companies-Deliver-Purpose/dp/1108494854/)
-* Responsible Investing: An Introduction to Environmental, Social, and Governance Investments - Matthew W. Sherwood and Julia Pollard, [Book $61](https://www.amazon.com/Responsible-Investing-Introduction-Environmental-Investments/dp/1138560065)
-* Intelligent Disobedience: The Difference between Good and Great Leaders - Bob McGannon (Fun read! This book shows that Governance does not always equals to obedience/following the rule), [Book $44](https://www.amazon.com/Intelligent-Disobedience-Bob-McGannon/dp/0815394675/)
+* Grow the Pie: How Great Companies Deliver Both Purpose and Profit - Alex Edmans (one of the best professors in London Business School :+1:), [Book $23](http://bit.ly/grow-the-pie)
+* Responsible Investing: An Introduction to Environmental, Social, and Governance Investments - Matthew W. Sherwood and Julia Pollard, [Book $61](http://bit.ly/responsible-investing-an-introduction-to-esg)
+* Intelligent Disobedience: The Difference between Good and Great Leaders - Bob McGannon (Fun read! This book shows that Governance does not always equals to obedience/following the rule), [Book $44](http://bit.ly/intelligent-disobedience-difference-between-leaders)
 
 ### Financial Analysis
-* Financial Statements: Economic Analysis and Interpretation - Chris Highson (you can imagine his voice by reading this book :laugh:) [Book $70](https://www.amazon.com/Financial-Statements-Economic-Analysis-Interpretation/dp/1845780116/)
-* Financial Statement Analysis: A Practitioner's Guide - Martin S. Fridson and Fernando Alvarez [Book $63](https://www.amazon.com/Financial-Statement-Analysis-Practitioners-Guide/dp/0470635606)
+* Financial Statements: Economic Analysis and Interpretation - Chris Highson (you can imagine his voice by reading this book :laugh:) [Book $70](http://bit.ly/financial-statements-econ-analysis-and-interpretation)
+* Financial Statement Analysis: A Practitioner's Guide - Martin S. Fridson and Fernando Alvarez [Book $63](http://bit.ly/financial-statement-analysis-practitioner-guide)
 
 ### Corporate Valuation
 * Corporate Valuation - Aswath Damodaran (New York University - MBA Class for free! :+1:) [Youtube](https://www.youtube.com/watch?v=G-DwtMkeNTo&list=PLUkh9m2BorqlvUMO3nMwXOG-VIqxmAh3t) / [Website](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/equity.html)
-* Corporate Valuation Theory, Evidence and Practice (if you’re damn serious about learning company valuation! :metal:) - Holthausen and Zmijewski, [Book $75](https://www.amazon.com/Corporate-Valuation-Theory-Evidence-Practice/dp/1618530364/)
-* Investment Valuation: Tools and Techniques for Determining the Value of Any Asset - Aswath Damodaran, [Book $80](https://www.amazon.com/Investment-Valuation-Tools-Techniques-Determining/dp/111801152X/)
-* Valuation: Measuring and Managing the Value of Companies. McKinsey, [Book $50](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/1119610885)
+* Corporate Valuation Theory, Evidence and Practice (if you’re damn serious about learning company valuation! :metal:) - Holthausen and Zmijewski, [Book $75](http://bit.ly/corporate-valuation-theory-evidence-practice)
+* Investment Valuation: Tools and Techniques for Determining the Value of Any Asset - Aswath Damodaran, [Book $68](http://bit.ly/investment-valuation-tools-and-technique)
+* Valuation: Measuring and Managing the Value of Companies - McKinsey, [Book $45](http://bit.ly/valuation-measuring-and-managing-value)
 
 ### Merger and Acquisitions
 * Law of Mergers and Acquisitions - MIT, [Videos on MITCourseWare](https://ocw.mit.edu/courses/sloan-school-of-management/15-649-the-law-of-mergers-and-acquisitions-spring-2003/index.htm)
 * Mergers & Acquisitions - NYU Stern, (_incredible amount of materials for free! might be slightly outdated though_) [Website](http://pages.stern.nyu.edu/~igiddy/mergers.html)
-* Mergers and Acquisitions: A Condensed Practitioner's Guide - Steven Bragg, [Book $55](https://www.amazon.com/Mergers-Acquisitions-Condensed-Practitioners-Guide/dp/0470398949)
-* Mergers and Acquisitions from A to Z - Andrew Sherman, [Book $28](https://www.amazon.com/Mergers-Acquisitions-Z-Andrew-Sherman/dp/0814439020/)
-* The Mergers and Acquisitions Handbook (Very good materials. Rare!) - Milton Rock et al., [Book $31](https://www.amazon.com/Mergers-Acquisitions-Handbook-Milton-Rock/dp/0070533539)
-* Mergers, Acquisitions, and Corporate Restructurings - Patrick A. Gaughan, [Book $65](https://www.amazon.com/Mergers-Acquisitions-Corporate-Restructurings-Wiley/dp/1119380766)
+* Mergers and Acquisitions: A Condensed Practitioner's Guide - Steven Bragg, [Book $55](http://bit.ly/mergers-and-acquisitions-condensed-practitioners-guide)
+* Mergers and Acquisitions from A to Z - Andrew Sherman, [Book $28](http://bit.ly/mergers-and-acquisitions-a-to-z)
+* The Mergers and Acquisitions Handbook (Very good materials. Rare!) - Milton Rock et al., [Book $31](http://bit.ly/mergers-and-acquisitions-handbook)
+* Mergers, Acquisitions, and Corporate Restructurings - Patrick A. Gaughan, [Book $65](http://bit.ly/mergers-acquisitions-corporate-restructurings)
 	
 ### Private Equity 
 * Introduction to Private Equity - Universita Bocconi, [Videos on Coursera](https://www.coursera.org/learn/private-equity)
 * Private Equity: Wharton Business School, [Videos on YouTube](https://www.youtube.com/playlist?list=PL16CA1557F889CCEB)
-* International Private Equity - London Business School, [Book $75](https://www.amazon.com/International-Private-Equity-Eli-Talmor/dp/0470971703/)
-* Private Capital - London Business School, Volume 1 - Funds [Book $95](https://www.amazon.com/gp/product/1916211046/) / Volume 2 - Investment [Book $95](https://www.amazon.com/gp/product/1916211054/)
+* International Private Equity - London Business School, [Book $75](http://bit.ly/international-private-equity)
+* Private Capital - London Business School, Volume 1 - Funds [Book $95](http://bit.ly/private-capital-volume-1-funds) / Volume 2 - Investment [Book $95](http://bit.ly/private-capital-volume-ii-investments)
 
 _Note: if you want an exhaustive list of PE and VC related materials and looking forward to work in PE/VC, visit [__Venture-Evolved__](https://medium.com/venture-evolved/resources-for-those-interested-in-venture-capital-and-private-equity-3964d0734273)._
 
@@ -150,20 +150,20 @@ _Note: if you want an exhaustive list of PE and VC related materials and looking
 * Financing and Investing in Infrastructure - Bocco ni University, [Videos on Coursera](https://www.coursera.org/learn/infrastructure-investing)
 * Project Finance: Funding Projects Successfully - TUDelft, [Videos on edX](https://www.edx.org/course/project-finance-funding-projects-successfully)
 * Public Private Partnership to provide public infrastructure assets and services - World Bank, [Guidebook](http://documents1.worldbank.org/curated/en/203931468339053317/pdf/798040WP0WBI0P0Box0379791B00PUBLIC0.pdf)
-* Principles of Project Finance - E. R. Yescombe, [Book $67](https://www.amazon.com/Principles-Project-Finance-R-Yescombe/dp/0123910587)
+* Principles of Project Finance - E. R. Yescombe, [Book $67](http://bit.ly/principles-of-project-finance)
 
 ### Default Risk on Bonds / Fixed Income / Credit / Loan
 * Credit Risk Materials - Stephen Schaefer (2012, LBS Professor :metal:), [Materials](https://www.google.com/search?q=filetype%3Apdf+dse.univr.it%2Fsafe%2Fdocuments%2FSSEFCANAZEI2012%2F&oq=filetype%3Apdf+dse.univr.it%2Fsafe%2Fdocuments%2FSSEFCANAZEI2012%2F&aqs=chrome..69i57j69i58.5591j0j4&sourceid=chrome&ie=UTF-8)
-* Credit Risk Modelling: Theory and Applications - David Lando, [Book $104](https://www.amazon.com/Credit-Risk-Modeling-Applications-Princeton-ebook/dp/B003VIWZ92/)
-* Active Credit Portfolio Management in Practice - Jeffrey Bohn and Roger Stein, (Very good book, aimed for practical work on credit risk :+1:), [Book $85](https://www.amazon.com/Active-Credit-Portfolio-Management-Practice-dp-0470080183/dp/0470080183/)
-* Credit Derivatives: A Primer on Credit Risk, Modeling, and Instruments - George Chako et al. (a good introductory book), [Book $18](https://www.amazon.com/Credit-Derivatives-Primer-Modeling-Instruments/dp/0131467441/)
-* Credit Risk - Darrell Duffie and Kenneth Singleton, [Book $71](https://www.amazon.com/Credit-Risk-Measurement-Management-Princeton/dp/0691090467/)
+* Credit Risk Modelling: Theory and Applications - David Lando, [Book $130](http://bit.ly/credit-risk-modelling-theory-and-applications)
+* Active Credit Portfolio Management in Practice - Jeffrey Bohn and Roger Stein, (Very good book, aimed for practical work on credit risk :+1:), [Book $85](http://bit.ly/active-credit-portfolio-management-in-practice)
+* Credit Derivatives: A Primer on Credit Risk, Modeling, and Instruments - George Chako et al. (a good introductory book), [Book $18](http://bit.ly/credit-derivatives-credit-risk-modeling-and-instruments)
+* Credit Risk - Darrell Duffie and Kenneth Singleton, [Book $71](http://bit.ly/credit-risk-duffie)
 
 ### Fixed Income / Bonds
 * Fixed Income Course - Hanyang University Business School, [Course Materials](https://drive.google.com/drive/u/0/folders/0B9soGjgURHI7bjFGbFZTZXJ5U0U?tid=0B9soGjgURHI7RFo0SEJ6ZEI4Unc)
-* Bond Markets, Analysis, and Strategies - Frank J. Fabozzi, [Book $280](https://www.amazon.com/Bond-Markets-Analysis-Strategies-9th/dp/0133796779)
-* Fixed Income Securities: Valuation, Risk, and Risk Management - Pietro Veronesi, [Book $215](https://www.amazon.com/Fixed-Income-Securities-Valuation-Management/dp/0470109106/)
-* Fixed Income Markets and Their Derivatives - Suresh Sundaresan, [Book $73](https://www.amazon.com/Markets-Derivatives-Academic-Advanced-Finance-ebook/dp/B003FK5PXO)
+* Bond Markets, Analysis, and Strategies - Frank J. Fabozzi, [Book $40](http://bit.ly/bond-markets-analysis-strategies)
+* Fixed Income Securities: Valuation, Risk, and Risk Management - Pietro Veronesi, [Book $182](http://bit.ly/fixed-income-securities-valuation-risk-management)
+* Fixed Income Markets and Their Derivatives - Suresh Sundaresan, [Book $150](http://bit.ly/fixed-income-markets-and-their-derivatives)
 
 ### Derivatives
 (can you suggest some materials?)
@@ -171,33 +171,33 @@ _Note: if you want an exhaustive list of PE and VC related materials and looking
 ### Financial Time Series
 * Financial Time Series - Wharton Business School, [Course Website](http://www-stat.wharton.upenn.edu/~steele/Courses/434/434index.html)
 * Forecasting: Principles and Practice (with R) - Rob J Hyndman and George Athanasopoulos, [Online Book Website](https://otexts.com/fpp2/)
-* Analysis of Financial Time Series - Ruey S. Tsay, [Book $114](https://www.amazon.com/Analysis-Financial-Time-Ruey-Tsay/dp/0470414359/)
-* Time Series Analysis and Its Applications: With R, [Book $130](https://www.amazon.com/Time-Analysis-Its-Applications-Statistics-dp-1461427592/dp/1461427592/)
+* Analysis of Financial Time Series - Ruey S. Tsay, [Book $114](http://bit.ly/analysis-of-financial-time-series)
+* Time Series Analysis and Its Applications: With R - Robert H Shumway and David S Stoffer, [Book $61](http://bit.ly/time-series-analysis-and-applications-R)
 
 ### Wealth Management
-* Richest Man in The Babylon - George S. Clason, [Book $13](https://www.amazon.com/Richest-Man-Babylon-George-Clason-dp-1939438551/dp/1939438551/)
-* The New Wealth Management: The Financial Advisor's Guide to Managing and Investing Client Assets - Harold Evensky, [Book $90](https://www.amazon.com/New-Wealth-Management-Financial-Investing/dp/0470624000)
-* The Stewardship of Wealth: Successful Private Wealth Management for Investors and Their Advisors - Gregory Curtis, [Book $42](https://www.amazon.com/Stewardship-Wealth-Website-Successful-Management/dp/1118321863)
+* Richest Man in The Babylon - George S. Clason, [Book $5](http://bit.ly/richest-man-in-the-babylon)
+* The New Wealth Management: The Financial Advisor's Guide to Managing and Investing Client Assets - Harold Evensky, [Book $90](http://bit.ly/new-wealth-management-financial-advisors-guide)
+* The Stewardship of Wealth: Successful Private Wealth Management for Investors and Their Advisors - Gregory Curtis, [Book $42](http://bit.ly/stewardship-of-wealth)
 
 ### Personal Finance
 * Personal & Family Financial Planning (good for beginner) - University of  Florida, [Videos on Coursera](https://www.coursera.org/learn/family-planning)
 * Finance for Everyone: Smart Tools for Decision-Making - University of Michigan, [Videos on edX](https://www.edx.org/course/finance-for-everyone-smart-tools-for-decision-ma-2)
 * Clever Girl Finance - Elite Cafemedia Finance (they also published interesting podcast on personal finance area), [Website](https://www.clevergirlfinance.com/course-packages/)
-* The Psychology of Money: Timeless lessons on wealth, greed, and happiness - Morgan Housel (MUST READ! :+1:), [Book $16](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/)
-* I Will Teach You to Be Rich, Second Edition: No Guilt. No Excuses. No BS. Just a 6-Week Program That Works - Ramit Sethi, [Book $9](https://www.amazon.com/Will-Teach-You-Rich-Second/dp/1523505745/)
+* The Psychology of Money: Timeless lessons on wealth, greed, and happiness - Morgan Housel (MUST READ! :+1:), [Book $16](http://bit.ly/the-psychology-of-money-timeless-lessons)
+* I Will Teach You to Be Rich, Second Edition: No Guilt. No Excuses. No BS. Just a 6-Week Program That Works - Ramit Sethi, [Book $9](http://bit.ly/i-will-teach-you-to-be-rich)
 
 ### Real Estate Investment
-* Real Estate Finance and Investments Risks and Opportunities - Peter Linneman and Bruce Kirsch, [Book $215](https://www.amazon.com/Estate-Finance-Investments-Risks-Opportunities/dp/1792331916/) 
-* Commercial Real Estate Analysis and Investments - David M. Geltner and Norman G. Miller, [Book $194](https://www.amazon.com/Commercial-Estate-Analysis-Investments-International-dp-113358442X/dp/113358442X/)
-* Real Estate Finance and Investments -  William B. Brueggeman and Jeffrey D. Fisher, [Book $56](https://www.amazon.com/FINANCE-INVESTMENTS-Jeffrey-William-Brueggeman-dp-1260091945/dp/1260091945/)
+* Real Estate Finance and Investments Risks and Opportunities - Peter Linneman and Bruce Kirsch, [Book $215](http://bit.ly/real-estate-finance-and-investments-risks-and-opportunities)
+* Commercial Real Estate Analysis and Investments - David M. Geltner and Norman G. Miller, [Book $194](http://bit.ly/commercial-real-estate-analysis-and-investments)
+* Real Estate Finance and Investments -  William B. Brueggeman and Jeffrey D. Fisher, [Book $56](http://bit.ly/real-estate-finance-and-investments)
 
 ### Equity Investment Management
-* Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk - Richard Grinold and Ronald Kahn (introductory, good for beginner), [Book $68](https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826/) 
-* Advances in Active Portfolio Management: New Developments in Quantitative - Richard Grinold and Ronald Kahn, [Book $70](https://www.amazon.com/Advances-Active-Portfolio-Management-Econometrics/dp/1260453715/)
-* Expected Returns: An Investor's Guide to Harvesting Market Rewards - Antti Ilmanen, [Book $64](https://www.amazon.com/Expected-Returns-Investors-Harvesting-Rewards/dp/1119990726)
-* Asset Pricing: Revised Edition - John Cochrane, [Book $88](https://www.amazon.com/Asset-Pricing-John-H-Cochrane/dp/0691121370)
-* Factor Investing: A Systematic Approach to Asset Management - Andrew Ang, [Book $83](https://www.amazon.com/Asset-Management-Systematic-Investing-Association/dp/0199959323)
-* Efficiently Inefficient: How Smart Money Invests and Market Prices Are Determined - Lasse Heje Pedersen, [Book $26](https://www.amazon.com/Efficiently-Inefficient-Invests-Market-Determined/dp/0691196095/)
+* Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk - Richard Grinold and Ronald Kahn (introductory, good for beginner), [Book $68](http://bit.ly/active-portfolio-management-a-quantitative-approach)
+* Advances in Active Portfolio Management: New Developments in Quantitative - Richard Grinold and Ronald Kahn, [Book $70](http://bit.ly/advances-in-active-portfolio-management)
+* Expected Returns: An Investor's Guide to Harvesting Market Rewards - Antti Ilmanen, [Book $64](http://bit.ly/expected-returns-an-investors-guide)
+* Asset Pricing: Revised Edition - John Cochrane, [Book $88](http://bit.ly/asset-pricing-revised-edition)
+* Factor Investing: A Systematic Approach to Asset Management - Andrew Ang, [Book $83](http://bit.ly/factor-investing-a-systematic-approach)
+* Efficiently Inefficient: How Smart Money Invests and Market Prices Are Determined - Lasse Heje Pedersen, [Book $26](http://bit.ly/efficiently-innefficient-how-smart-money-invests)
 
 ### Financial Technology
 * Consumer Finance: Markets, Product Design, and FinTech - MIT, [Videos on MIT OpenCourseware](http://ocw.abu.edu.ng/courses/sloan-school-of-management/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/index.htm)
@@ -211,7 +211,7 @@ _Note: if you want an exhaustive list of PE and VC related materials and looking
 ## Programming Skills for Finance
 
 ### Python
-Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython - Wes McKinney, [Book $46](https://www.amazon.com/_/dp/1491957662)
+Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython - Wes McKinney, [Book $46](https://amzn.to/2X3KXtc)
 
 ### R
 * Discovering Statistics Using R - Andy Field, et al. [Book $86] (https://www.amazon.com/Discovering-Statistics-Using-Andy-Field/dp/1446200469/)
@@ -264,4 +264,4 @@ _Note: Non-Open-Source books, courses, and resources are noted with $_.
 Please contribute input by clicking on this [link](https://github.com/hendrirach/financemasters/blob/main/README.md), definitely happy to accept suggestions! Gonna keep this site as open source forever.
 Follow me on Twitter [@hendriyono](https://twitter.com/hendriyono); Instagram [@hendriyono](https://instagram.com/hendriyono)
 
-_Inspired by: [datasciencemaster.org](datasciencemasters.org)_
+_Inspired by: [datasciencemasters.org](datasciencemasters.org)_
